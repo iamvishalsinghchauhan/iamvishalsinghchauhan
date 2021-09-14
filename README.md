@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamvishalsinghchauhan
-- 👀 I’m interested in startup my own company
+- 👀 I’m interested in start my own company
 - 🌱 I’m currently learning Django and Ethical Hacking
-- 💞️ I’m looking to collaborate on any Company
+- 💞️ I’m looking to collaborate with any Company
 - 📫 vschauhan.work@gmail.com
 
 <!---
